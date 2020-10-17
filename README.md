@@ -14,3 +14,4 @@
 8. The URLs for these views have already been provided for you. You do not need to create them.
 9. Pass the tests (python manage.py test).
 10. Push your code.
+11. Test if it works
